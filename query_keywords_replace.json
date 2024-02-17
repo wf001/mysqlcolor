@@ -1,0 +1,25 @@
+{
+    "SELECT": "\n SELECT",
+    "FROM": "\n   FROM",
+    "GROUP BY": "\n    GROUP BY",
+    "LIMIT": "\n    LIMIT",
+    "OFFSET": "\n    OFFSET",
+    "JOIN": "\n    JOIN",
+    "WHERE": "\n    WHERE",
+    "ORDER BY": "\n    ORDER BY",
+    "HAVING": "\n    HAVING",
+    "BETWEEN": "\n    BETWEEN",
+    "EXTRACT": "\n    EXTRACT",
+    "CASE": "\n    CASE",
+    "RANK": "\n    RANK",
+    "PARTITION BY": "\n    PARTITION BY",
+    "INNER JOIN ON": "\n    INNER JOIN ON",
+    "OUTER JOIN ON": "\n    OUTER JOIN ON",
+    "RIGHT JOIN ON": "\n    RIGHT JOIN ON",
+    "LEFT JOIN ON": "\n    LEFT JOIN ON",
+    "UPDATE": "\n    UPDATE",
+    "INSERT INTO": "\n    INSERT INTO",
+    "VALUES": "\n    VALUES",
+    "DELETE FROM": "\n    DELETE FROM"
+}
+
